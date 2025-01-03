@@ -2,7 +2,7 @@
 
 ## MongoDB, Express.js, React, and Node.js
 
-RecipeBox is an application that allows a user to create a personalized account and add/modify recipes to their account.
+RecipeBox is an application that allows a user to create a personalized account and add, modify, and save recipes to their account.
 
 The application is simple to use.
 
